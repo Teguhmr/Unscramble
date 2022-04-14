@@ -11,7 +11,7 @@ Used in the [Android Basics with Kotlin-Unit 3](https://developer.android.com/co
 Getting Started
 ---------------
 
-1. Download and run the [app](https://drive.google.com/file/d/10G5pUOWj6orTZPUAZ2h2yml8uu7nOze6/view?usp=sharing).
+1. Download and run the [app](https://drive.google.com/file/d/1teM-LSRvzHXg7cmfvV2n93yxfOQuINO5/view?usp=sharing).
 2. Guess a word from the question.
 3. You can use hint or skip for next word.
 4. Play again or exit.
