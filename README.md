@@ -21,15 +21,11 @@ Getting Started
 Screenshoot
 ---------------
 
-<table>
-  <tr>
-    <td> <img src="./screenshoot/img_1.png"  alt="1" width = 360px height = 640px ></td>
+Welcome Screen             |  Game start
+:-------------------------:|:-------------------------:
+![](./screenshoot/img_1.png)  |  ![](./screenshoot/img_2.png)
 
-    <td><img src="./screenshoot/img_2.png" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="./screenshoot/img_3.png" alt="3" width = 360px height = 640px></td>
 
-      <td><img src="./screenshoot/img_4.png" align="right" alt="4" width = 360px height = 640px></td>
-  </tr>
-</table>
+Hint word             |  Play Again or exit
+:-------------------------:|:-------------------------:
+![](./screenshoot/img_1.png)  |  ![](./screenshoot/img_2.png)
