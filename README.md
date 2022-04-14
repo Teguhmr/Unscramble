@@ -23,9 +23,9 @@ Screenshoot
 
 Welcome Screen             |  Game start
 :-------------------------:|:-------------------------:
-![](./screenshoot/img_1.png)  |  ![](./screenshoot/img_2.png)
+<img src="./screenshoot/img_1.png" width="200">  |  <img src="./screenshoot/img_2.png" width="200">
 
 
 Hint word             |  Play Again or exit
 :-------------------------:|:-------------------------:
-![](./screenshoot/img_3.png)  |  ![](./screenshoot/img_4.png)
+<img src="./screenshoot/img_3.png" width="200">  |  <img src="./screenshoot/img_4.png" width="200">
