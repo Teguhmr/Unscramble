@@ -16,8 +16,8 @@
 
 package com.example.android.unscramble.ui.game
 
+import android.annotation.SuppressLint
 import android.graphics.Typeface
-import android.os.Build
 import android.os.Bundle
 import android.view.Gravity
 import android.view.LayoutInflater
@@ -163,6 +163,7 @@ class GameFragment : Fragment() {
     private fun onSkipWord() {
         if (viewModel.nextWord()) {
             setHintVisible(false)
+            binding.textInputEditText.setText("")
             setErrorTextField(false)
         } else {
             showFinalScoreDialog()
@@ -231,6 +232,7 @@ class GameFragment : Fragment() {
         }
     }
 
+    @SuppressLint("SetTextI18n")
     private fun addView(viewParent: LinearLayout, text: String, editText: EditText) {
         val linearLayoutParams = LinearLayout.LayoutParams(
             LinearLayout.LayoutParams.MATCH_PARENT,
@@ -258,7 +260,6 @@ class GameFragment : Fragment() {
         editText.typeface = typeface
         textView.typeface = typeface
         textView.setOnClickListener {
-//            Music.clickText()
             val smallBigForth = AnimationUtils.loadAnimation(
                 activity, R.anim.smallbigforth
             )
@@ -282,7 +283,7 @@ class GameFragment : Fragment() {
         viewParent.addView(textView)
     }
 
-    private fun shuffleArray(ar: Array<String>): Array<String>? {
+    private fun shuffleArray(ar: Array<String>): Array<String> {
         val rnd = Random()
         for (i in ar.size - 1 downTo 1) {
             val index = rnd.nextInt(i + 1)
