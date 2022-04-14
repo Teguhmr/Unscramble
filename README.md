@@ -8,18 +8,11 @@ This code sample also demonstrates how to implement Data Binding with LiveData.
 
 Used in the [Android Basics with Kotlin-Unit 3](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-3) course.
 
-
-Pre-requisites
---------------
-
-You need to know:
-- How to use Fragments
-- How to design a layout in ConstraintLayout
-- How to write control flow statements (if / else, when statements)
-- How to update the UI of the app based on user input
-- How to add a click listener to a Button
-
 Getting Started
 ---------------
 
-1. Download and run the app.
+1. Download and run the [app](https://drive.google.com/file/d/10G5pUOWj6orTZPUAZ2h2yml8uu7nOze6/view?usp=sharing).
+2. Guess a word from the question.
+3. You can use hint or skip for next word.
+4. Play again or exit.
+5. Happy!
