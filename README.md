@@ -21,11 +21,11 @@ Getting Started
 Screenshoot
 ---------------
 
-Welcome Screen             |  Game start
+Welcome Screen             |  Game Start
 :-------------------------:|:-------------------------:
 <img src="./screenshoot/img_1.png" width="200">  |  <img src="./screenshoot/img_2.png" width="200">
 
 
-Hint word             |  Play Again or exit
+Hint Word             |  Play Again or Exit
 :-------------------------:|:-------------------------:
 <img src="./screenshoot/img_3.png" width="200">  |  <img src="./screenshoot/img_4.png" width="200">
