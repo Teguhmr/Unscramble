@@ -30,7 +30,6 @@ Screenshoot
    <tr>
       <td><img src="./screenshoot/img_3.png" alt="3" width = 360px height = 640px></td>
 
-      <td><img src="./screenshoot/img_4.png" align="right" alt="4" width = 360px height = 640px>
-  </td>
+      <td><img src="./screenshoot/img_4.png" align="right" alt="4" width = 360px height = 640px></td>
   </tr>
 </table>
