@@ -28,4 +28,4 @@ Welcome Screen             |  Game start
 
 Hint word             |  Play Again or exit
 :-------------------------:|:-------------------------:
-![](./screenshoot/img_1.png)  |  ![](./screenshoot/img_2.png)
+![](./screenshoot/img_3.png)  |  ![](./screenshoot/img_2.png)
