@@ -163,7 +163,7 @@ class GameFragment : Fragment() {
     private fun onSkipWord() {
         if (viewModel.nextWord()) {
             setHintVisible(false)
-            binding.textInputEditText.setText("")
+            PRESS_COUNTER = 0
             setErrorTextField(false)
         } else {
             showFinalScoreDialog()
